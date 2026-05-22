@@ -17,11 +17,9 @@ BASE_URL = "https://qa-testing-navy.vercel.app"
 CANDIDATE_ID = "siri-varsha-nadimicherla"  # Replace with your assigned ID
 
 HEADERS = {
-    "X-Candidate-ID": nsirivarsha@gmail.com,
+    "X-Candidate-ID": "nsirivarsha@gmail.com",
     "Content-Type": "application/json"
 }
-
-
 # ─────────────────────────────────────────────
 # HELPER FUNCTIONS
 # ─────────────────────────────────────────────
